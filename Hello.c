@@ -3,7 +3,7 @@
 
 int main(int argc, char **argv) {
 
-  printf("Joe Krushenisky, Computer Science\n");
+  printf("Joe Krushenisky,Grant Baumhover, Computer Science\n");
 
   return 0;
 }
